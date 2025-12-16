@@ -1,5 +1,13 @@
 # 💫 About Me:
-I am a passionate and proficient programmer with a strong foundation in Python, specializing in data manipulation and analysis using libraries such as Pandas and NumPy. My expertise extends to data visualization with Matplotlib, and I am dedicated to advancing my skills in data science, machine learning, and artificial intelligence.<br><br>In addition to my data science pursuits, I have hands-on experience in web scraping using BeautifulSoup and Requests, allowing me to extract valuable insights from various online sources. Currently, I am expanding my skill set in web development, with knowledge in HTML and CSS, and I am actively working on mastering additional technologies to enhance my proficiency in this area.<br><br>Furthermore, I am committed to strengthening my problem-solving abilities through Data Structures and Algorithms (DSA) in Java, as I believe a solid understanding of these concepts is crucial for any aspiring developer.
+🚀 Full-Stack Web Developer (MERN) | Python Developer | AI/ML Enthusiast
+
+I build full-stack web applications using the MERN Stack (MongoDB, Express.js, React.js, Node.js) and have a strong foundation in Python with hands-on experience in popular libraries like NumPy, Pandas, and Matplotlib.
+
+I am actively exploring Machine Learning, Deep Learning, and Generative AI, while strengthening my core problem-solving skills through Data Structures & Algorithms.
+
+Currently learning and experimenting with Cloud & DevOps technologies such as Docker, CI/CD pipelines, Kubernetes, and modern deployment workflows.
+
+💡 Passionate about building scalable applications, learning new technologies, and growing as a software engineer.
 
 
 ## 🌐 Socials:

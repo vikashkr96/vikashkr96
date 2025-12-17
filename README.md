@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Full-Stack Web Developer (MERN) | Python Developer | AI/ML Enthusiast
+Full-Stack Web Developer (MERN) | Python Developer | AI/ML Enthusiast
 
 I build full-stack web applications using the MERN Stack (MongoDB, Express.js, React.js, Node.js) and have a strong foundation in Python with hands-on experience in popular libraries like NumPy, Pandas, and Matplotlib.
 
@@ -7,7 +7,7 @@ I am actively exploring Machine Learning, Deep Learning, and Generative AI, whil
 
 Currently learning and experimenting with Cloud & DevOps technologies such as Docker, CI/CD pipelines, Kubernetes, and modern deployment workflows.
 
-💡 Passionate about building scalable applications, learning new technologies, and growing as a software engineer.
+Passionate about building scalable applications, learning new technologies, and growing as a software engineer.
 
 
 ## 🌐 Socials:

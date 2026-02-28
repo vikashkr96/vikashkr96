@@ -3,7 +3,7 @@
 Hi, I'm a B.Tech CSE (AI & ML) student passionate about building intelligent, scalable software.
 
 🔹 Full-Stack Developer (MERN)  
-🔹 Python for Data Analysis & ML (NumPy, Pandas, Matplotlib)  
+🔹 Python for Data Analysis & ML  
 🔹 Learning ML, Deep Learning & Generative AI  
 🔹 Exploring Cloud & Deployment  
 

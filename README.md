@@ -1,5 +1,15 @@
-# 💫 About Me:
-# About Me:<br><br>Hi, I'm a B.Tech CSE (AI & ML) student passionate about building intelligent and scalable software.<br><br>🔹 Full-Stack Web Developer (MERN Stack – MongoDB, Express.js, React.js, Node.js)  <br>🔹 Strong foundation in Python for data analysis & ML (NumPy, Pandas, Matplotlib)  <br>🔹 Currently learning Machine Learning, Deep Learning & Generative AI  <br>🔹 Exploring Cloud & modern deployment workflows  <br><br>🎓 Strong foundation in core Computer Science subjects including Data Structures & Algorithms, Operating Systems, Database Management Systems, Computer Networks, and Object-Oriented Programming. <br><br>🚀 Passionate about AI Automations, Agentic AI systems, and solving real-world problems with technology.  <br>📚 Actively improving problem-solving skills through DSA and real-world projects.  <br><br>I love building useful projects, learning new technologies, and growing as a software engineer.
+## 💫 About Me
+
+Hi, I'm a B.Tech CSE (AI & ML) student passionate about building intelligent, scalable software.
+
+🔹 Full-Stack Developer (MERN)  
+🔹 Python for Data Analysis & ML (NumPy, Pandas, Matplotlib)  
+🔹 Learning ML, Deep Learning & Generative AI  
+🔹 Exploring Cloud & Deployment  
+
+🎓 Strong in Core CS: DSA, OS, DBMS, CN, OOP  
+🚀 Interested in AI Automation & real-world problem solving  
+📚 Improving skills through DSA & projects
 
 
 ## 🌐 Socials:

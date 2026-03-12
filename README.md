@@ -22,16 +22,70 @@ Hi, I'm a B.Tech CSE (AI & ML) student passionate about building intelligent, sc
 ![](https://nirzak-streak-stats.vercel.app/?user=vikashkr96&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vikashkr96&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vikashkr96&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=vikashkr96&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vikashkr96&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🚀 Featured Projects
+
+## 🕷️ Spider AI — Intelligent Desktop AI Assistant
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vikashkr96&repo=Spider-AI&theme=radical)](https://github.com/vikashkr96/Spider-AI)
+
+An **AI-powered desktop assistant** built with Python that can automate tasks, respond to voice commands, and interact intelligently with users.
+
+**Key Features**
+- 🎙 Voice command interaction
+- 🤖 AI conversational responses
+- 🖥 Desktop automation
+- 🌐 Web search integration
+- ⚡ Fast Python execution
+
+**Tech Stack**
+
+`Python` `AI APIs` `Speech Recognition` `Automation`
+
+---
+
+## 🎯 YOLO Object Detection — Real-Time AI Vision
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vikashkr96&repo=Machine-Learning-Projects&theme=radical)](https://github.com/vikashkr96/Machine-Learning-Projects/tree/main/YOLO_Object_Detection)
+
+A **real-time object detection system** using YOLOv3 and OpenCV that detects objects from webcam video streams.
+
+**Key Features**
+
+- 📷 Real-time webcam detection
+- 🧠 Deep learning model (YOLOv3)
+- 📦 COCO dataset object classes
+- 🖼 Bounding box detection
+- 🌐 Flask web interface
+
+**Tech Stack**
+
+`Python` `YOLOv3` `OpenCV` `Flask` `Deep Learning`
+
+---
+
+## 🏨 WanderStay — Full Stack Travel Booking Platform
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vikashkr96&repo=WanderStay&theme=radical)](https://github.com/vikashkr96/WanderStay)
+
+A **modern full-stack travel accommodation platform** inspired by Airbnb that allows users to list and book stays.
+
+**Key Features**
+
+- 🏡 Property listing system
+- 🔐 User authentication
+- 🗺 Location-based listings
+- ⭐ Reviews and ratings
+- 📱 Fully responsive UI
+
+**Tech Stack**
+
+`Node.js` `Express.js` `MongoDB` `EJS` `Bootstrap`  `REST APIs`
+
+---
+
+# 💡 Currently Learning & Building
+
+- 📚 Advanced **Data Structures & Algorithms**
+- 🤖 **Machine Learning & Deep Learning**
+- ⚡ AI Automation tools
+- ☁ Cloud deployment with **AWS, Render & Vercel**
